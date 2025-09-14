@@ -1,1 +1,1 @@
-# minecraft-musics
+# minecraft-music
